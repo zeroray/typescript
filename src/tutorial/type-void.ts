@@ -46,6 +46,6 @@ function sumNumbers(limit: number) {
     }
     // return sum;
 }
-)
+
 sumNumbers(10);
 // ciclo infinito, programa nunca termina
